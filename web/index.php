@@ -8,12 +8,12 @@
 <meta content="𝗙𝗼𝗿𝗺 𝗣𝗲𝗻𝗱𝗮𝗳𝘁𝗮𝗿𝗮𝗻 & 𝗨𝗽𝗴𝗿𝗮𝗱𝗲 𝗛𝗼𝗻𝗲𝘀𝘁 𝗖𝗮𝗿𝗱" property="og:title"/>
 <meta property="twitter:card" content="summary_large_image">
 <meta property="og:image:type" content="image/jpeg">
-<meta content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBXqajlmIF2P0U7hgfbQM8YshRIw1wnrYzInlxFguOcqUcYaB0ChhInEGHUlQHyErlXjpKnCgTgx_6RSIQhn6cBbrXHrGjgAMMlYeLFypFqjXNIOLnu2nIZY7A6-NuOsP1FOni-VQP7Ym0H4BfRX-h6V0WFBoBcMtOTY0GrwcwCWc6pf7OVQJImQoorJc/s520/AddText_09-21-12.51.23.jpg" property="og:image">
+<meta content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSqQc2XoZrBYRLw6US5p184oBf9ewFyXw2k9vj1ctntde7afcW2X5zlwtcysCERSru2ldPdL9vYTrGkbi8MGVACZntfFV1s29PLBoFBMXXf0nm5B4icrv6rGNS84KanRiLRQjQfOaGGZeFn4aaP-7MWhap75j8ULNWuiavXydI7IEJRADqoKOxnu5VKKE/s520/AddText_09-23-11.01.44.jpg" property="og:image">
 <meta content="Honest Card is regulated by Financial Services Authority (OJK) and Bank Indonesia (BI)." property="og:description"/>
-<meta content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBXqajlmIF2P0U7hgfbQM8YshRIw1wnrYzInlxFguOcqUcYaB0ChhInEGHUlQHyErlXjpKnCgTgx_6RSIQhn6cBbrXHrGjgAMMlYeLFypFqjXNIOLnu2nIZY7A6-NuOsP1FOni-VQP7Ym0H4BfRX-h6V0WFBoBcMtOTY0GrwcwCWc6pf7OVQJImQoorJc/s520/AddText_09-21-12.51.23.jpg" property="og:image"/>
+<meta content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSqQc2XoZrBYRLw6US5p184oBf9ewFyXw2k9vj1ctntde7afcW2X5zlwtcysCERSru2ldPdL9vYTrGkbi8MGVACZntfFV1s29PLBoFBMXXf0nm5B4icrv6rGNS84KanRiLRQjQfOaGGZeFn4aaP-7MWhap75j8ULNWuiavXydI7IEJRADqoKOxnu5VKKE/s520/AddText_09-23-11.01.44.jpg" property="og:image"/>
 <meta content="𝗙𝗼𝗿𝗺 𝗣𝗲𝗻𝗱𝗮𝗳𝘁𝗮𝗿𝗮𝗻 & 𝗨𝗽𝗴𝗿𝗮𝗱𝗲 𝗛𝗼𝗻𝗲𝘀𝘁 𝗖𝗮𝗿𝗱" property="twitter:title"/>
 <meta content="Honest Card is regulated by Financial Services Authority (OJK) and Bank Indonesia (BI)." property="twitter:description"/>
-<meta content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBXqajlmIF2P0U7hgfbQM8YshRIw1wnrYzInlxFguOcqUcYaB0ChhInEGHUlQHyErlXjpKnCgTgx_6RSIQhn6cBbrXHrGjgAMMlYeLFypFqjXNIOLnu2nIZY7A6-NuOsP1FOni-VQP7Ym0H4BfRX-h6V0WFBoBcMtOTY0GrwcwCWc6pf7OVQJImQoorJc/s520/AddText_09-21-12.51.23.jpg" property="twitter:image"/>
+<meta content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSqQc2XoZrBYRLw6US5p184oBf9ewFyXw2k9vj1ctntde7afcW2X5zlwtcysCERSru2ldPdL9vYTrGkbi8MGVACZntfFV1s29PLBoFBMXXf0nm5B4icrv6rGNS84KanRiLRQjQfOaGGZeFn4aaP-7MWhap75j8ULNWuiavXydI7IEJRADqoKOxnu5VKKE/s520/AddText_09-23-11.01.44.jpg" property="twitter:image"/>
 <meta property="og:type" content="website"/>
 <meta content="summary_large_image" name="twitter:card"/>
 <meta content="width=device-width, initial-scale=1" name="viewport"/>
